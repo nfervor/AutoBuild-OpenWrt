@@ -4,15 +4,15 @@
 # Author: King Tam
 #=================================================
 
-name: Build_r619ac
+name: Build_lenovo_newifi-d1
 
 on: 
   release:
     types: [published]
 
-  push:
-    branches: 
-      - master
+  #push:
+    #branches: 
+      #- master
 
   #schedule:
   #  - cron: 0 8 * * 5
